@@ -240,3 +240,7 @@ Apache License 2.0 - see [LICENSE](LICENSE)
 ---
 
 **Star ⭐ this repo if you found it helpful!**
+## Beginner-Friendly Repos
+
+- [Python Task Manager](https://github.com/hima-varsha24/python-task-manager)  
+  A beginner-friendly Python + Flask project to manage daily tasks.
